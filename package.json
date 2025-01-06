@@ -1,5 +1,5 @@
 {
-    "name": "levenshtein",
+    "name": "@environement-safe/levenshtein",
     "version": "0.0.1",
     "type": "module",
     "main": "dist/index.mjs",
@@ -23,17 +23,17 @@
             "require": "./dist/index.cjs"
         }
     },
-    "homepage": "null",
-    "description": "null",
+    "homepage": "https://github.com/environement-safe/levenshtein",
+    "description": "levenshtein distance measurements in vanilla ESM",
     "keywords": [],
-    "author": "null <null>()",
+    "author": "Abbey Hawk Sparrow <khrome>(http://abbeyhawksparrow.com)",
     "contributors": [],
     "repository": {
         "type": "git",
-        "url": "null"
+        "url": "git@github.com:environement-safe/levenshtein.git"
     },
     "bugs": {
-        "url": "null"
+        "url": "https://github.com/environement-safe/levenshtein/issues"
     },
     "moka": {
         "firefox": {
